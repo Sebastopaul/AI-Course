@@ -1,4 +1,4 @@
-![alt text](./img/image.png)
+![alt text](img/image.png)
 
 
 Sur ce schéma, on peut voir le pipeline du machine learning, différentes sections étapes ont été faite dans les labs.
