@@ -1,5 +1,9 @@
 # Module 3 - Challenge Lab
 
+## Author
+
+This part was written by Sébastien LAMARD.
+
 ## Introduction
 
 The Challenge Lab in Module 3 is a recollection of all the previous Sections in the Module.
