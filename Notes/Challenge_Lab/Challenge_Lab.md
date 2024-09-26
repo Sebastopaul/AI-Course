@@ -122,7 +122,7 @@ Training takes quite some time, but once it is done, we can get the metrics from
 
 ![Training metrics](./assets/training_metrics.png)
 
-We can now test our model on testing data.
+We can now deploy our model using batch transform and test it on testing data.
 
 ![Model Testing 1](./assets/model_testing.png)
 
